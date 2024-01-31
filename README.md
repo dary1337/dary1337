@@ -1,6 +1,7 @@
 ### Chrome add-ons
 * Themes
-  * [Anilibria.tv](https://github.com/dary1337/anilibria-amoled)
+  * [Youtube Amoled](https://github.com/dary1337/youtube-amoled)
+  * [Anilibria Amoled](https://github.com/dary1337/anilibria-amoled)
   * Chat-GPT Themes
     * [Amoled](https://github.com/dary1337/chatgpt-amoled)
     * [Material You](https://github.com/dary1337/chatgpt-material-ui)
