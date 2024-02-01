@@ -1,11 +1,14 @@
 ### Chrome add-ons
 * Themes
-  * [Youtube Amoled](https://github.com/dary1337/youtube-amoled)
-  * [Anilibria Amoled](https://github.com/dary1337/anilibria-amoled)
-  * Chat-GPT Themes
-    * [Amoled](https://github.com/dary1337/chatgpt-amoled)
-    * [Material You](https://github.com/dary1337/chatgpt-material-ui)
+
+     -    [Smaller Scrollbar](https://github.com/dary1337/custom-themes/tree/master/themes/smaller-scrollbar)
+     -    [Chat-GPT Amoled](https://github.com/dary1337/custom-themes/tree/master/themes/smaller-scrollbar)
+     -    [Material GPT](https://github.com/dary1337/custom-themes/tree/master/themes/material-gpt)
+     -    [YouTube Amoled](https://github.com/dary1337/custom-themes/tree/master/themes/youtube-amoled)
+     -    [Anilibria Amoled](https://github.com/dary1337/anilibria-amoled)
+     -    [Win10T Forum Fix](https://github.com/dary1337/custom-themes/tree/master/themes/win10t-forum-fix)
 * Extensions
+  * [Custom Themes](https://github.com/dary1337/custom-themes)
   * [Yande.re Uncensor](https://github.com/dary1337/Yande.re-Uncensor)
 
 ### Windows
