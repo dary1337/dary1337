@@ -21,6 +21,6 @@
 
 ### Windows
 * [yuri's editor](https://github.com/dary1337/yuris_editor)
-* [YSM Installer](https://github.com/dary1337/YSM)
+* [YSM Installer](https://github.com/dary1337/YSM_Installer)
 * [DesktopBackupper](https://github.com/dary1337/DesktopBackupper)
 * [LitySwitcher](https://github.com/dary1337/LitySwitcher)
